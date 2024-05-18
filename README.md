@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game ... 🐍 ate 🍎
 Classic snake game from everyones childhood memory,
 I wanted to get familiar with pygame so I tried this excersie 
 
